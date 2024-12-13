@@ -11,7 +11,7 @@ The **File Processing System** is a FastAPI-based application designed to stream
 ---
 
 ## Repository Link
-The source code for this project is available on GitHub: [File Processing System Repository](https://github.com/DattatrayBodake25/File-Processing-System)
+- The source code for this project is available on GitHub: [File Processing System Repository](https://github.com/DattatrayBodake25/File-Processing-System)
 
 ---
 
