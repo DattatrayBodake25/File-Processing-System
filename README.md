@@ -200,8 +200,7 @@ $ curl -X POST "http://127.0.0.1:8000/upload/" -F "file=@example.pdf"
 
 ## Demonstration
 ### **Video Walkthrough**
-A detailed video walkthrough of the application is available [here](https://drive.google.com/your-folder-link).
-
+A detailed video walkthrough of the application is available - https://www.loom.com/share/edd4e26464204aa7b4f50f11193205b4?sid=b54631d5-5c00-46a0-baa5-d032bb4dbc46
 ---
 
 ## Technologies Used
